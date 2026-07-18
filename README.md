@@ -68,12 +68,27 @@ fun_fact: "我会跟服务器吵架，然后它就 401 了 🤖💥"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zongyu888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7C&icon_color=22C55E" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongyu888&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7C" alt="langs" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zongyu888&theme=radical&hide_border=true&background=0D1117&ring=F75C7C&fire=22C55E&curr=FFD700" alt="streak" />
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=zongyu888&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophy" />
+<!-- 实时数据 badge（shields.io 稳定服务） -->
+<p>
+<img src="https://img.shields.io/github/followers/zongyu888?style=for-the-badge&color=F75C7C&label=Followers&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/zongyu888?style=for-the-badge&color=FFD700&label=Total+Stars&logo=github" alt="stars" />
+<img src="https://img.shields.io/github/search/zongyu888/starshell/goto?style=for-the-badge&color=22C55E&label=Repo+Searches" alt="searches" />
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/y/zongyu888/starshell?style=for-the-badge&color=F75C7C&label=Commits%2FYr&logo=git" alt="commits" />
+<img src="https://img.shields.io/github/repo-size/zongyu888/starshell?style=for-the-badge&color=6DB33F&label=StarShell+Size&logo=github" alt="size" />
+<img src="https://img.shields.io/github/v/release/zongyu888/starshell?style=for-the-badge&color=blueviolet&label=Latest+Release&logo=github" alt="release" />
+</p>
+<p>
+<img src="https://img.shields.io/github/languages/count/zongyu888?style=for-the-badge&color=0EA5E9&label=Languages+Used&logo=github" alt="langs-count" />
+<img src="https://img.shields.io/github/languages/top/zongyu888/starshell?style=for-the-badge&color=ED8B00&label=Main+Lang&logo=java" alt="top-lang" />
+<img src="https://img.shields.io/github/downloads/zongyu888/starshell/total?style=for-the-badge&color=22C55E&label=Downloads&logo=github" alt="downloads" />
+</p>
+
+<!-- 访客计数 -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=zongyu888&style=for-the-badge&color=F75C7C&label=Profile+Views" alt="visitors" />
+</p>
 
 </div>
 
