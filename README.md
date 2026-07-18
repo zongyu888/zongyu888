@@ -90,6 +90,13 @@ fun_fact: "我会跟服务器吵架，然后它就 401 了 🤖💥"
 <img src="https://komarev.com/ghpvc/?username=zongyu888&style=for-the-badge&color=F75C7C&label=Profile+Views" alt="visitors" />
 </p>
 
+<!-- 🐍 贡献图蛇吃豆子动画 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zongyu888/zongyu888/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zongyu888/zongyu888/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zongyu888/zongyu888/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
